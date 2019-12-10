@@ -1,6 +1,11 @@
 # ios-learning-projects
 Containing ios projects for learning purposes
 
+## Expenses
+App for counting your expenses
+
+![expenses](https://raw.githubusercontent.com/rifansyah/ios-learning-projects/master/Screenshot/expenses.gif)
+
 ## Better Rest
 Fourth project for learning ios development
 
@@ -8,7 +13,6 @@ Fourth project for learning ios development
 
 ## guesstheflag
 third project for learning ios development
-
 
 ![alt text](https://raw.githubusercontent.com/rifansyah/ios-learning-projects/master/%233%20GuessTheFlag/screenshot/screenshot.gif)
 
